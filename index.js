@@ -1,1 +1,1 @@
-This is amazing
+console.log("Hello")
